@@ -118,6 +118,6 @@ Bot: Goodbye! Have a great day.
 
 ## 👨‍💻 Author
 
-Keerthi Ranga
+Sairam Poyila
 
 DecodeLabs Artificial Intelligence Internship - Project 1

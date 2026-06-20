@@ -1,7 +1,7 @@
 # ==================================================
 # Rule-Based AI Chatbot
 # DecodeLabs AI Project 1
-# Developed by Keerthi Ranga
+# Developed by sairam poyila
 # ==================================================
 
 print("=" * 60)
